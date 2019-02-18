@@ -1,11 +1,19 @@
 Training Document
 
-+++
+### Training Document
 
-Hola!
 
-Goodbye!
+研修用ドキュメント
 
-+++
 
-Adiós!
+---
+
+
+### アジェンダ
+
+- WEBの基本
+- IPアドレスとは？
+- DNSって何？
+- WEB配信におけるIPアドレスとDNSの関係
+
+---
