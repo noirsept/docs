@@ -1,1 +1,11 @@
-test
+Training Document
+
++++
+
+Hola!
+
+Goodbye!
+
++++
+
+Adiós!
